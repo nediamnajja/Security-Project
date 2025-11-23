@@ -19,14 +19,10 @@ The goal of this project is to enhance online security awareness by providing an
 You can access the live version of this project here:
 🔗 Password Strength Checker
 
-## 📧 Get in Touch
+## 👏 Thank You!
 
-For inquiries, collaboration, or to reach out:
+We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
 
 📩 nediamnajja.tbs@gmail.com
 📩 nadahenchir505@gmail.com
 📩 sebaiselima@gmail.com
-
-## 👏 Thank You!
-
-We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
