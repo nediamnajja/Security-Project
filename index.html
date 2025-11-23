@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Password Strength Tester</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Password Strength Tester</h1>
+    <div class="form-container">
+      <div class="input-container">
+        <input type="text" id="username" placeholder="Username" />
+      </div>
+      
+      <div class="password-container">
+        <input type="password" id="password" placeholder="Enter Password" />
+        <button type="button" id="togglePasswordBtn" class="toggle-btn">SHOW</button>
+      </div>
+      <div class="strength-meter">
+        <div class="strength-meter-fill" id="strength-meter-fill"></div>
+      </div>
+      <div class="strength-label" id="strength-label">Password Strength</div>
+      
+      <div class="suggestions" id="suggestions" style="display: none;">
+        <h3>Security Suggestion:</h3>
+        <ul id="suggestions-list"></ul>
+      </div>
+      
+      <button type="button" class="reset-btn" id="reset-btn">Reset</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
